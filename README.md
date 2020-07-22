@@ -1,3 +1,5 @@
+[![Rendy Febry.](https://github.com/rendyfebry/rendyfebry/blob/master/bg-profile.png)](https://www.linkedin.com/in/rendyfebry/)
+
 ### Hi there 👋
 
 <!--
